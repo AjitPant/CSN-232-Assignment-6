@@ -1,0 +1,403 @@
+[Reader: 0, PID: 0] Started Reading.
+[Reader: 1, PID: 1] Started Reading.
+[Reader: 2, PID: 2] Started Reading.
+[Writer: 0, PID: 3] Started Writing.
+[Reader: 3, PID: 4] Started Reading.
+[Writer: 2, PID: 6] Started Writing.
+[Writer: 3, PID: 7] Started Writing.
+[Writer: 1, PID: 5] Started Writing.
+[Reader: 4, PID: 8] Started Reading.
+[Reader: 5, PID: 9] Started Reading.
+[Writer: 4, PID: 10] Started Writing.
+[Writer: 5, PID: 11] Started Writing.
+[Reader: 6, PID: 13] Started Reading.
+[Writer: 6, PID: 12] Started Writing.
+[Reader: 7, PID: 15] Started Reading.
+[Writer: 7, PID: 14] Started Writing.
+[Reader: 8, PID: 16] Started Reading.
+[Writer: 8, PID: 18] Started Writing.
+[Reader: 9, PID: 17] Started Reading.
+[Reader: 10, PID: 19] Started Reading.
+[Writer: 9, PID: 20] Started Writing.
+[Writer: 10, PID: 21] Started Writing.
+[Writer: 12, PID: 23] Started Writing.
+[Writer: 11, PID: 22] Started Writing.
+[Reader: 11, PID: 24] Started Reading.
+[Writer: 13, PID: 26] Started Writing.
+[Reader: 12, PID: 25] Started Reading.
+[Reader: 13, PID: 27] Started Reading.
+[Reader: 15, PID: 30] Started Reading.
+[Reader: 14, PID: 28] Started Reading.
+[Writer: 14, PID: 29] Started Writing.
+[Writer: 15, PID: 31] Started Writing.
+[Writer: 17, PID: 35] Started Writing.
+[Reader: 16, PID: 32] Started Reading.
+[Reader: 17, PID: 33] Started Reading.
+[Writer: 16, PID: 34] Started Writing.
+[Reader: 18, PID: 36] Started Reading.
+[Reader: 19, PID: 37] Started Reading.
+[Writer: 18, PID: 38] Started Writing.
+[Reader: 20, PID: 41] Started Reading.
+[Reader: 22, PID: 43] Started Reading.
+[Writer: 20, PID: 40] Started Writing.
+[Reader: 21, PID: 42] Started Reading.
+[Writer: 21, PID: 46] Started Writing.
+[Reader: 23, PID: 44] Started Reading.
+[Writer: 19, PID: 39] Started Writing.
+[Reader: 24, PID: 45] Started Reading.
+[Reader: 25, PID: 47] Started Reading.
+[Writer: 22, PID: 48] Started Writing.
+[Writer: 26, PID: 53] Started Writing.
+[Reader: 27, PID: 55] Started Reading.
+[Reader: 28, PID: 56] Started Reading.
+[Reader: 29, PID: 57] Started Reading.
+[Reader: 30, PID: 58] Started Reading.
+[Writer: 28, PID: 59] Started Writing.
+[Reader: 31, PID: 60] Started Reading.
+[Writer: 29, PID: 61] Started Writing.
+[Writer: 23, PID: 49] Started Writing.
+[Writer: 24, PID: 50] Started Writing.
+[Writer: 25, PID: 51] Started Writing.
+[Reader: 26, PID: 52] Started Reading.
+[Writer: 27, PID: 54] Started Writing.
+[Writer: 30, PID: 62] Started Writing.
+[Reader: 32, PID: 63] Started Reading.
+[Reader: 33, PID: 64] Started Reading.
+[Writer: 31, PID: 66] Started Writing.
+[Reader: 34, PID: 65] Started Reading.
+[Reader: 35, PID: 67] Started Reading.
+[Reader: 38, PID: 74] Started Reading.
+[Writer: 32, PID: 68] Started Writing.
+[Writer: 33, PID: 69] Started Writing.
+[Reader: 36, PID: 70] Started Reading.
+[Writer: 34, PID: 71] Started Writing.
+[Reader: 37, PID: 72] Started Reading.
+[Writer: 35, PID: 73] Started Writing.
+[Reader: 39, PID: 75] Started Reading.
+[Writer: 36, PID: 76] Started Writing.
+[Writer: 37, PID: 77] Started Writing.
+[Writer: 39, PID: 79] Started Writing.
+[Writer: 38, PID: 78] Started Writing.
+[Reader: 40, PID: 80] Started Reading.
+[Reader: 41, PID: 81] Started Reading.
+[Writer: 40, PID: 83] Started Writing.
+[Reader: 42, PID: 82] Started Reading.
+[Writer: 41, PID: 84] Started Writing.
+[Reader: 43, PID: 85] Started Reading.
+[Writer: 44, PID: 93] Started Writing.
+[Writer: 42, PID: 86] Started Writing.
+[Reader: 44, PID: 87] Started Reading.
+[Reader: 45, PID: 88] Started Reading.
+[Writer: 43, PID: 89] Started Writing.
+[Reader: 46, PID: 90] Started Reading.
+[Reader: 50, PID: 95] Started Reading.
+[Reader: 48, PID: 92] Started Reading.
+[Reader: 49, PID: 94] Started Reading.
+[Writer: 47, PID: 99] Started Writing.
+[Reader: 47, PID: 91] Started Reading.
+[Reader: 51, PID: 98] Started Reading.
+[Writer: 46, PID: 97] Started Writing.
+[Writer: 45, PID: 96] Started Writing.
+[Reader: 0, PID: 0] Value read as: 1
+[Reader: 1, PID: 1] Value read as: 1
+[Reader: 0, PID: 0] Finished reading.
+[Reader: 2, PID: 2] Value read as: 1
+[Reader: 1, PID: 1] Finished reading.
+[Reader: 2, PID: 2] Finished reading.
+[Writer: 0, PID: 3] Value updated to: 2
+[Writer: 0, PID: 3] Finished writing.
+[Reader: 3, PID: 4] Value read as: 2
+[Reader: 3, PID: 4] Finished reading.
+[Writer: 2, PID: 6] Value updated to: 3
+[Writer: 2, PID: 6] Finished writing.
+[Writer: 3, PID: 7] Value updated to: 4
+[Writer: 3, PID: 7] Finished writing.
+[Writer: 1, PID: 5] Value updated to: 5
+[Writer: 1, PID: 5] Finished writing.
+[Reader: 5, PID: 9] Value read as: 5
+[Reader: 4, PID: 8] Value read as: 5
+[Reader: 5, PID: 9] Finished reading.
+[Reader: 4, PID: 8] Finished reading.
+[Writer: 4, PID: 10] Value updated to: 6
+[Writer: 4, PID: 10] Finished writing.
+[Writer: 5, PID: 11] Value updated to: 7
+[Writer: 5, PID: 11] Finished writing.
+[Reader: 6, PID: 13] Value read as: 7
+[Reader: 6, PID: 13] Finished reading.
+[Writer: 6, PID: 12] Value updated to: 8
+[Writer: 6, PID: 12] Finished writing.
+[Reader: 7, PID: 15] Value read as: 8
+[Reader: 7, PID: 15] Finished reading.
+[Writer: 7, PID: 14] Value updated to: 9
+[Writer: 7, PID: 14] Finished writing.
+[Reader: 8, PID: 16] Value read as: 9
+[Reader: 8, PID: 16] Finished reading.
+[Writer: 8, PID: 18] Value updated to: 10
+[Writer: 8, PID: 18] Finished writing.
+[Reader: 9, PID: 17] Value read as: 10
+[Reader: 9, PID: 17] Finished reading.
+[Reader: 10, PID: 19] Value read as: 10
+[Reader: 10, PID: 19] Finished reading.
+[Writer: 9, PID: 20] Value updated to: 11
+[Writer: 9, PID: 20] Finished writing.
+[Writer: 10, PID: 21] Value updated to: 12
+[Writer: 10, PID: 21] Finished writing.
+[Writer: 12, PID: 23] Value updated to: 13
+[Writer: 12, PID: 23] Finished writing.
+[Writer: 11, PID: 22] Value updated to: 14
+[Writer: 11, PID: 22] Finished writing.
+[Reader: 11, PID: 24] Value read as: 14
+[Reader: 11, PID: 24] Finished reading.
+[Writer: 13, PID: 26] Value updated to: 15
+[Writer: 13, PID: 26] Finished writing.
+[Reader: 13, PID: 27] Value read as: 15
+[Reader: 15, PID: 30] Value read as: 15
+[Reader: 12, PID: 25] Value read as: 15
+[Reader: 14, PID: 28] Value read as: 15
+[Reader: 13, PID: 27] Finished reading.
+[Reader: 15, PID: 30] Finished reading.
+[Reader: 12, PID: 25] Finished reading.
+[Reader: 14, PID: 28] Finished reading.
+[Writer: 14, PID: 29] Value updated to: 16
+[Writer: 14, PID: 29] Finished writing.
+[Writer: 15, PID: 31] Value updated to: 17
+[Writer: 15, PID: 31] Finished writing.
+[Writer: 17, PID: 35] Value updated to: 18
+[Writer: 17, PID: 35] Finished writing.
+[Reader: 17, PID: 33] Value read as: 18
+[Reader: 16, PID: 32] Value read as: 18
+[Reader: 17, PID: 33] Finished reading.
+[Reader: 16, PID: 32] Finished reading.
+[Writer: 16, PID: 34] Value updated to: 19
+[Writer: 16, PID: 34] Finished writing.
+[Reader: 18, PID: 36] Value read as: 19
+[Reader: 18, PID: 36] Finished reading.
+[Reader: 19, PID: 37] Value read as: 19
+[Reader: 19, PID: 37] Finished reading.
+[Writer: 18, PID: 38] Value updated to: 20
+[Writer: 18, PID: 38] Finished writing.
+[Reader: 20, PID: 41] Value read as: 20
+[Reader: 22, PID: 43] Value read as: 20
+[Reader: 20, PID: 41] Finished reading.
+[Reader: 22, PID: 43] Finished reading.
+[Writer: 20, PID: 40] Value updated to: 21
+[Writer: 20, PID: 40] Finished writing.
+[Reader: 21, PID: 42] Value read as: 21
+[Reader: 21, PID: 42] Finished reading.
+[Writer: 21, PID: 46] Value updated to: 22
+[Writer: 21, PID: 46] Finished writing.
+[Reader: 23, PID: 44] Value read as: 22
+[Reader: 23, PID: 44] Finished reading.
+[Writer: 19, PID: 39] Value updated to: 23
+[Writer: 19, PID: 39] Finished writing.
+[Reader: 25, PID: 47] Value read as: 23
+[Reader: 24, PID: 45] Value read as: 23
+[Reader: 25, PID: 47] Finished reading.
+[Reader: 24, PID: 45] Finished reading.
+[Writer: 22, PID: 48] Value updated to: 24
+[Writer: 22, PID: 48] Finished writing.
+[Writer: 26, PID: 53] Value updated to: 25
+[Writer: 26, PID: 53] Finished writing.
+[Reader: 27, PID: 55] Value read as: 25
+[Reader: 28, PID: 56] Value read as: 25
+[Reader: 29, PID: 57] Value read as: 25
+[Reader: 27, PID: 55] Finished reading.
+[Reader: 30, PID: 58] Value read as: 25
+[Reader: 28, PID: 56] Finished reading.
+[Reader: 29, PID: 57] Finished reading.
+[Reader: 30, PID: 58] Finished reading.
+[Writer: 28, PID: 59] Value updated to: 26
+[Writer: 28, PID: 59] Finished writing.
+[Reader: 31, PID: 60] Value read as: 26
+[Reader: 31, PID: 60] Finished reading.
+[Writer: 29, PID: 61] Value updated to: 27
+[Writer: 29, PID: 61] Finished writing.
+[Writer: 23, PID: 49] Value updated to: 28
+[Writer: 23, PID: 49] Finished writing.
+[Writer: 24, PID: 50] Value updated to: 29
+[Writer: 24, PID: 50] Finished writing.
+[Writer: 25, PID: 51] Value updated to: 30
+[Writer: 25, PID: 51] Finished writing.
+[Reader: 26, PID: 52] Value read as: 30
+[Reader: 26, PID: 52] Finished reading.
+[Writer: 27, PID: 54] Value updated to: 31
+[Writer: 27, PID: 54] Finished writing.
+[Writer: 30, PID: 62] Value updated to: 32
+[Writer: 30, PID: 62] Finished writing.
+[Reader: 32, PID: 63] Value read as: 32
+[Reader: 33, PID: 64] Value read as: 32
+[Reader: 32, PID: 63] Finished reading.
+[Reader: 33, PID: 64] Finished reading.
+[Writer: 31, PID: 66] Value updated to: 33
+[Writer: 31, PID: 66] Finished writing.
+[Reader: 35, PID: 67] Value read as: 33
+[Reader: 34, PID: 65] Value read as: 33
+[Reader: 38, PID: 74] Value read as: 33
+[Reader: 35, PID: 67] Finished reading.
+[Reader: 34, PID: 65] Finished reading.
+[Reader: 38, PID: 74] Finished reading.
+[Writer: 32, PID: 68] Value updated to: 34
+[Writer: 32, PID: 68] Finished writing.
+[Writer: 33, PID: 69] Value updated to: 35
+[Writer: 33, PID: 69] Finished writing.
+[Reader: 36, PID: 70] Value read as: 35
+[Reader: 36, PID: 70] Finished reading.
+[Writer: 34, PID: 71] Value updated to: 36
+[Writer: 34, PID: 71] Finished writing.
+[Reader: 37, PID: 72] Value read as: 36
+[Reader: 37, PID: 72] Finished reading.
+[Writer: 35, PID: 73] Value updated to: 37
+[Writer: 35, PID: 73] Finished writing.
+[Reader: 39, PID: 75] Value read as: 37
+[Reader: 39, PID: 75] Finished reading.
+[Writer: 36, PID: 76] Value updated to: 38
+[Writer: 36, PID: 76] Finished writing.
+[Writer: 37, PID: 77] Value updated to: 39
+[Writer: 37, PID: 77] Finished writing.
+[Writer: 39, PID: 79] Value updated to: 40
+[Writer: 39, PID: 79] Finished writing.
+[Writer: 38, PID: 78] Value updated to: 41
+[Writer: 38, PID: 78] Finished writing.
+[Reader: 41, PID: 81] Value read as: 41
+[Reader: 40, PID: 80] Value read as: 41
+[Reader: 41, PID: 81] Finished reading.
+[Reader: 40, PID: 80] Finished reading.
+[Writer: 40, PID: 83] Value updated to: 42
+[Writer: 40, PID: 83] Finished writing.
+[Reader: 42, PID: 82] Value read as: 42
+[Reader: 42, PID: 82] Finished reading.
+[Writer: 41, PID: 84] Value updated to: 43
+[Writer: 41, PID: 84] Finished writing.
+[Reader: 43, PID: 85] Value read as: 43
+[Reader: 43, PID: 85] Finished reading.
+[Writer: 44, PID: 93] Value updated to: 44
+[Writer: 44, PID: 93] Finished writing.
+[Writer: 42, PID: 86] Value updated to: 45
+[Writer: 42, PID: 86] Finished writing.
+[Reader: 44, PID: 87] Value read as: 45
+[Reader: 45, PID: 88] Value read as: 45
+[Reader: 44, PID: 87] Finished reading.
+[Reader: 45, PID: 88] Finished reading.
+[Writer: 43, PID: 89] Value updated to: 46
+[Writer: 43, PID: 89] Finished writing.
+[Reader: 46, PID: 90] Value read as: 46
+[Reader: 50, PID: 95] Value read as: 46
+[Reader: 46, PID: 90] Finished reading.
+[Reader: 48, PID: 92] Value read as: 46
+[Reader: 50, PID: 95] Finished reading.
+[Reader: 49, PID: 94] Value read as: 46
+[Reader: 48, PID: 92] Finished reading.
+[Reader: 49, PID: 94] Finished reading.
+[Writer: 47, PID: 99] Value updated to: 47
+[Writer: 47, PID: 99] Finished writing.
+[Reader: 47, PID: 91] Value read as: 47
+[Reader: 47, PID: 91] Finished reading.
+[Reader: 51, PID: 98] Value read as: 47
+[Reader: 51, PID: 98] Finished reading.
+[Writer: 46, PID: 97] Value updated to: 48
+[Writer: 46, PID: 97] Finished writing.
+[Writer: 45, PID: 96] Value updated to: 49
+[Writer: 45, PID: 96] Finished writing.
+[STATISTICS] :
+[Reader: 0, PID: 0] Turnaround time 0.100383
+[Reader: 1, PID: 1] Turnaround time 0.100579
+[Reader: 2, PID: 2] Turnaround time 0.100591
+[Reader: 3, PID: 4] Turnaround time 0.300676
+[Reader: 4, PID: 8] Turnaround time 0.701626
+[Reader: 5, PID: 9] Turnaround time 0.701527
+[Reader: 6, PID: 13] Turnaround time 1.001966
+[Reader: 7, PID: 15] Turnaround time 1.202364
+[Reader: 8, PID: 16] Turnaround time 1.402674
+[Reader: 9, PID: 17] Turnaround time 1.603094
+[Reader: 10, PID: 19] Turnaround time 1.603050
+[Reader: 11, PID: 24] Turnaround time 2.104088
+[Reader: 12, PID: 25] Turnaround time 2.304954
+[Reader: 13, PID: 27] Turnaround time 2.304850
+[Reader: 14, PID: 28] Turnaround time 2.304837
+[Reader: 15, PID: 30] Turnaround time 2.304854
+[Reader: 16, PID: 32] Turnaround time 2.706031
+[Reader: 17, PID: 33] Turnaround time 2.705978
+[Reader: 18, PID: 36] Turnaround time 2.906355
+[Reader: 19, PID: 37] Turnaround time 2.906446
+[Reader: 20, PID: 41] Turnaround time 3.107173
+[Reader: 21, PID: 42] Turnaround time 3.307643
+[Reader: 22, PID: 43] Turnaround time 3.107219
+[Reader: 23, PID: 44] Turnaround time 3.508337
+[Reader: 24, PID: 45] Turnaround time 3.709290
+[Reader: 25, PID: 47] Turnaround time 3.709170
+[Reader: 26, PID: 52] Turnaround time 4.712766
+[Reader: 27, PID: 55] Turnaround time 4.010345
+[Reader: 28, PID: 56] Turnaround time 4.010488
+[Reader: 29, PID: 57] Turnaround time 4.010588
+[Reader: 30, PID: 58] Turnaround time 4.010632
+[Reader: 31, PID: 60] Turnaround time 4.210927
+[Reader: 32, PID: 63] Turnaround time 5.013960
+[Reader: 33, PID: 64] Turnaround time 5.014011
+[Reader: 34, PID: 65] Turnaround time 5.214851
+[Reader: 35, PID: 67] Turnaround time 5.214757
+[Reader: 36, PID: 70] Turnaround time 5.515739
+[Reader: 37, PID: 72] Turnaround time 5.716486
+[Reader: 38, PID: 74] Turnaround time 5.214888
+[Reader: 39, PID: 75] Turnaround time 5.916926
+[Reader: 40, PID: 80] Turnaround time 6.417938
+[Reader: 41, PID: 81] Turnaround time 6.417902
+[Reader: 42, PID: 82] Turnaround time 6.618289
+[Reader: 43, PID: 85] Turnaround time 6.818696
+[Reader: 44, PID: 87] Turnaround time 7.119486
+[Reader: 45, PID: 88] Turnaround time 7.119508
+[Reader: 46, PID: 90] Turnaround time 7.319874
+[Reader: 47, PID: 91] Turnaround time 7.520444
+[Reader: 48, PID: 92] Turnaround time 7.320039
+[Reader: 49, PID: 94] Turnaround time 7.320041
+[Reader: 50, PID: 95] Turnaround time 7.319928
+[Reader: 51, PID: 98] Turnaround time 7.520492
+[Writer: 0, PID: 3] Turnaround time 0.200561
+[Writer: 1, PID: 5] Turnaround time 0.601286
+[Writer: 2, PID: 6] Turnaround time 0.400764
+[Writer: 3, PID: 7] Turnaround time 0.501141
+[Writer: 4, PID: 10] Turnaround time 0.801659
+[Writer: 5, PID: 11] Turnaround time 0.901847
+[Writer: 6, PID: 12] Turnaround time 1.102195
+[Writer: 7, PID: 14] Turnaround time 1.302545
+[Writer: 8, PID: 18] Turnaround time 1.502971
+[Writer: 9, PID: 20] Turnaround time 1.703270
+[Writer: 10, PID: 21] Turnaround time 1.803425
+[Writer: 11, PID: 22] Turnaround time 2.003773
+[Writer: 12, PID: 23] Turnaround time 1.903554
+[Writer: 13, PID: 26] Turnaround time 2.204355
+[Writer: 14, PID: 29] Turnaround time 2.404803
+[Writer: 15, PID: 31] Turnaround time 2.505146
+[Writer: 16, PID: 34] Turnaround time 2.806240
+[Writer: 17, PID: 35] Turnaround time 2.605459
+[Writer: 18, PID: 38] Turnaround time 3.006649
+[Writer: 19, PID: 39] Turnaround time 3.608605
+[Writer: 20, PID: 40] Turnaround time 3.207289
+[Writer: 21, PID: 46] Turnaround time 3.408034
+[Writer: 22, PID: 48] Turnaround time 3.809439
+[Writer: 23, PID: 49] Turnaround time 4.411737
+[Writer: 24, PID: 50] Turnaround time 4.512130
+[Writer: 25, PID: 51] Turnaround time 4.612394
+[Writer: 26, PID: 53] Turnaround time 3.909818
+[Writer: 27, PID: 54] Turnaround time 4.813081
+[Writer: 28, PID: 59] Turnaround time 4.110643
+[Writer: 29, PID: 61] Turnaround time 4.311333
+[Writer: 30, PID: 62] Turnaround time 4.913513
+[Writer: 31, PID: 66] Turnaround time 5.114192
+[Writer: 32, PID: 68] Turnaround time 5.315085
+[Writer: 33, PID: 69] Turnaround time 5.415401
+[Writer: 34, PID: 71] Turnaround time 5.616118
+[Writer: 35, PID: 73] Turnaround time 5.816655
+[Writer: 36, PID: 76] Turnaround time 6.017053
+[Writer: 37, PID: 77] Turnaround time 6.117293
+[Writer: 38, PID: 78] Turnaround time 6.317682
+[Writer: 39, PID: 79] Turnaround time 6.217522
+[Writer: 40, PID: 83] Turnaround time 6.518102
+[Writer: 41, PID: 84] Turnaround time 6.718511
+[Writer: 42, PID: 86] Turnaround time 7.019139
+[Writer: 43, PID: 89] Turnaround time 7.219607
+[Writer: 44, PID: 93] Turnaround time 6.918926
+[Writer: 45, PID: 96] Turnaround time 7.720866
+[Writer: 46, PID: 97] Turnaround time 7.620655
+[Writer: 47, PID: 99] Turnaround time 7.420208
+As can be seen from the above output, the turnaround time is directly proportional to the arrival order, hence no starvation is here!
+
