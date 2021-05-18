@@ -3,7 +3,7 @@
 
  **Enrollment No :** 18312004
 
- **Assignment 6 Starve-Free Readers Writers Problem**
+ **Assignment 6 : Starve-Free Readers Writers Problem**
 
  Operating Systems (CSN-232) Spring 2021 (IIT Roorkee)
 
